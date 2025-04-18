@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # bash-user-processor
 This project contains a simple Bash script that processes user data from a text source. Each user record includes a name, email, and ID. The script checks the validity of each email address and determines whether the ID number is even or odd.
 =======
@@ -33,4 +32,3 @@ I created this script as part of a practical task during my **DevOps course**. T
 chmod +x process_users.sh
 ./process_users.sh
 
->>>>>>> 8490072 (Initial commit: Add bash script to process users)
